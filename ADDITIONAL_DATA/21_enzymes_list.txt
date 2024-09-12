@@ -1,0 +1,13 @@
+enzyme	source	orthology
+PF01752	HMM_PF01752	Peptidase_M9
+PF00082	HMM_00082	Peptidase_S8
+PF16499	HMM_16499	Melibiase_2
+COG0265	COG20_FUNCTION	Periplasmic serine protease S1-C subfamily
+COG0826	COG20_FUNCTION	U32 peptidase family
+COG4409	COG20_FUNCTION	Neuraminidase NanH
+COG3250	COG20_FUNCTION	Beta-galactosidase
+COG1472	COG20_FUNCTION	Periplasmic beta-glucosidase and related glycosidases
+COG0673	COG20_FUNCTION	Predicted dehydrogenase
+COG3669	COG20_FUNCTION	Alpha-L-fucosidase
+COG0383	COG20_FUNCTION	Alpha-mannosidase
+COG2303	COG20_FUNCTION	Choline dehydrogenase
